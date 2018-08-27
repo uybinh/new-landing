@@ -7,8 +7,8 @@ title: Phan Uy Binh - A Web Developer
 email: uybinh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Phan Uy Binh - A Web Developer - Ruby Rails JavaScript
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://uybinh.github.io/new-landing" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/new-landing" # the subpath of your site, e.g. /blog
+url: "https://uybinh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: uybinh
 github_username:  uybinh
 
